@@ -1,19 +1,20 @@
-![Frame 69](https://github.com/user-attachments/assets/3901856e-ee2d-4ccc-8f0f-2fc96b8ef31e)
+<img width="1440" height="810" alt="guidy-sign-new" src="https://github.com/user-attachments/assets/09b0e908-4acc-4305-9cd0-1bc5ba3defdf" />
+
 # Guidy
 Guidy is a wayfinding typeface tailored to specific needs of most modern Cyrillic langugaes.
 
 ### Typeface includes:
 
-• 451 Glyphs \
-• 48 Wayfidnig pictograms \
-• Support for 180+ languages \
-• 9 OT features \
-• Pictograms search function embedded inside fontfile
+• 799 Glyphs \
+• 40 Wayfidnig pictograms \
+• Support for 400+ languages \
+• 20 OT features \
+• Pictograms search feature embedded inside fontfile
 
-Guidy is a geometric grotesque with humanistic roots.\
+Guidy is a geometric sans serif with humanistic roots.\
 It draws inspiration from such typefaces as: Avenir, Frutiger, Geometria, Gill Sans, Wayfinding Sans 
 
-More info on [guidy.ru](https://www.guidy.ru/)
+More info on [collectivetype.works](https//:collectivetype.works)
 
 # License
 • Guidy is licensed under the [SIL Open Font License v1.1](https://openfontlicense.org) \
